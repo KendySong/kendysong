@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendysong&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendysong&theme=reactlayout=compact)
 
 <!--
 **KendySong/kendysong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
