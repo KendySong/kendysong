@@ -1,5 +1,5 @@
 ### Hi there 👋
-<div style="display: flex; align-items: center; justify-content:center;">
+<div align="center">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendysong&theme=react&layout=compact" />
 </div>
   
