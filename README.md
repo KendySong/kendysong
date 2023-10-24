@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendysong&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendysong&theme=react&layout=compact)
 
 
   
