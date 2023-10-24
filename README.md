@@ -1,8 +1,7 @@
 ### Hi there 👋
-<div style="display: flex; align-item:center; justify:center;">
+<div style="display: flex; align-items: center; justify-content:center;">
  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendysong&theme=react&layout=compact" />
 </div>
-
   
 <!--
 **KendySong/kendysong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
